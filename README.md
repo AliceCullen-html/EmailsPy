@@ -1,4 +1,4 @@
-# Enviando vários emails com python 📧
+# Enviando vários e-mails com python 📧
 
 
 <h2>Iniciando o projeto</h2>
